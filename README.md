@@ -3,6 +3,9 @@
 This project implements a multi-agent system powered by LangChain to deliver comprehensive real estate investment recommendations. By integrating structured data, current market insights, demographic trends, and custom code generation, the system leverages six specialized agents to create a 20-page investment report packed with data visualizations, listings, reviews, and analytical insights.
 
 ---
+## **📌 Project Resources**
+- **Streamlit:** [Application Link](https://realestateinvestmentassistant-bigdata.streamlit.app/)
+----
 
 ## **📌 Project Overview**
 
@@ -106,16 +109,6 @@ The system orchestrates six distinct agents to cover every aspect of real estate
   - Dockerized setup for seamless integration and deployment.
 - **Scalability:**  
   - Designed to scale and adapt to additional data sources and analytic requirements.
-
----
-
-## **📌 Contributions**
-
-| **Member**    | **Contribution**                                                                                                                                                         |
-|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Ketki**  | Developed the Snowflake Graph and Listing Agents for data extraction and visualization from real estate datasets.                                                        |
-| **Janvi**  | Implemented the Pinecone Agent for semantic search and assisted in integrating the Code Generator Agent for dynamic code snippet generation.                           |
-| **Sahil**  | Built the Demographic Agent to analyze and integrate demographic data, and designed the Final Report Agent to aggregate and compile a comprehensive 20-page report.    |
 
 ---
 
